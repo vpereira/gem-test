@@ -1,0 +1,4 @@
+obs/.bundle
+obs/cache
+obs/Gemfile
+obs/Gemfile.lock
